@@ -13,8 +13,8 @@ Why doing that? multiples reasons
 - it is necessary, what can I say?
 
 Tasks?
-[x] git:+1:
-[x] md:+1:
-[ ] test
+- [x] git:+1:
+- [x] md:+1:
+- [ ] test
 
 <!-- this is hiding -->
